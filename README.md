@@ -1,4 +1,4 @@
-# Project News Portal
+# Project - News Portal
 
 Welcome to **Project News Portal**, a modern and user-friendly platform designed to deliver news efficiently and effectively.
 
